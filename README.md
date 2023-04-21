@@ -8,7 +8,7 @@ My trading style is build LONG/SHORT portfolio control by algorithmic trading.
 ```
 
 ## Skills
-**IT**: Python, Data analysis (Pandas, Numpy, Matplotlib, Jupyternotebook), Git, Linux, SQL databases, Rest api
+**IT**: Python, Data analysis (Pandas, Numpy, Matplotlib, Jupyter notebook), Git, Linux, SQL databases, Rest api
 
 **Market analysis**: Price action, Market profile, Volume profile, Order flow, Liquidity, Intermarket, Correlation
 

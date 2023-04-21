@@ -4,7 +4,7 @@
 I am quant analyst and trader focued on trading cryptocurrencies futures. I also provide consultations in the field of automation and construction of algorithmic trading systems.
 
 ```
-My trading style is build LONG/SHORT portfolio controll by algorithmic trading.
+My trading style is build LONG/SHORT portfolio control by algorithmic trading.
 ```
 
 ## Skills

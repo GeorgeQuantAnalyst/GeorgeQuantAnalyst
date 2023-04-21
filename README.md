@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I am George Quant Analyst 👋
+
+## About me
+I am quant analyst and trader focued on trading cryptocurrencies futures.
+My trading style is build LONG/SHORT portfolio controll by algorithmic trading.
+
+## Provide consulting in automation and algotrading
+for more information contact me at [GeorgeQuantAnalyst](https://t.me/GeorgeQunatAnalyst) telegram chat.
 
 <!--
 **GeorgeQuantAnalyst/GeorgeQuantAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

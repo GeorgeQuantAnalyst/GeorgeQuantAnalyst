@@ -1,7 +1,7 @@
 # Hi there, I am George Quant Analyst 👋
 
 ## About me
-I am quant analyst and trader focued on trading cryptocurrencies futures. I also provide consultations in the field of automation and construction of algorithmic trading systems.
+I am a quant analyst and trader focused on trading cryptocurrency futures. I also provide consultations in the fields of automation and the construction of algorithmic trading systems.
 
 ```
 My trading style is build LONG/SHORT portfolio control by algorithmic trading.

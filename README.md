@@ -14,7 +14,7 @@ My trading style is build LONG/SHORT portfolio controll by algorithmic trading.
 
 
 ## Contact
-* [GeorgeQuantAnalyst telegram](https://t.me/GeorgeQunatAnalyst)
+* [GeorgeQuantAnalyst telegram](https://t.me/GeorgeQuantAnalyst)
 
 <!--
 **GeorgeQuantAnalyst/GeorgeQuantAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
